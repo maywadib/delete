@@ -1,5 +1,5 @@
 function add(x,y)
-	return null
+	return (x+y)
 
 function sub(x,y)
 	return null
@@ -8,4 +8,4 @@ function mul(x,y)
 	return x*y
 
 function div(x,y)
-	return null
+	return x/y
