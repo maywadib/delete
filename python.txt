@@ -5,7 +5,7 @@ function sub(x,y)
 	return null
 
 function mul(x,y)
-	return null
+	return mull
 
 function div(x,y)
 	return null
