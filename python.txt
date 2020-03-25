@@ -1,0 +1,11 @@
+function add(x,y)
+	return null
+
+function sub(x,y)
+	return null
+
+function mul(x,y)
+	return null
+
+function div(x,y)
+	return null
