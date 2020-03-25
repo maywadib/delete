@@ -1,5 +1,5 @@
 function add(x,y)
-	return null
+	return mull
 
 function sub(x,y)
 	return null
